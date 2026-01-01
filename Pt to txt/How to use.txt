@@ -1,0 +1,2 @@
+Launch Rhinocerous software
+Open "Pt to txt.gh" and enjoy!
